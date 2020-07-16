@@ -1,0 +1,67 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.txt1 {
+    color: #cc0000;
+    font-size: 60px;
+}
+
+.txt2 {
+    color: white;
+}
+
+.nav-link {
+    color: #cc0000;
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.text-center {
+    margin-top: 200px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.container h2 {
+    color: red;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container h3 {
+    color: red;
+}
+
+.container p {
+    color: white;
+}
+
+.container hr {
+    background-color: white;
+}
+
+.checked {
+    color: red;
+}
+
+ul li a {
+    color: red;
+    font-size: 15px;
+}
+
+ul li a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+h4 {
+    color: red;
+}
